@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class Ques_14 {
 
 

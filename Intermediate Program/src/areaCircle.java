@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class areaCircle {
     double pie = 3.71;
     int x;

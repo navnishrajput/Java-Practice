@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class Ques_12 {
     public static void main(String[] args) {
         byte b1 = 10;

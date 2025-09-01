@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class Ques_11 {
     public static void main(String[] args) {
 

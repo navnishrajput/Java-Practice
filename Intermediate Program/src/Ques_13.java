@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class Ques_13 {
     static String  UniName = "Chitkara University";
     String Stu_Name;
