@@ -1,4 +1,5 @@
-# Java-Practice
+# Java-Practice 
+
 
 This repository contains my solutions to a series of Java programming problems, ranging from basic to advanced levels. The problems are designed to test foundational knowledge of Java, including data types, variables, type casting, and more.
 
